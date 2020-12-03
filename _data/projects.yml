@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Project name
+  name: Research 
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -8,7 +8,15 @@
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 - layout: top-middle
-  name: Project name 222
+  name: Avalanch
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+- layout: top-middle
+  name: YoloBot
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
